@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">GoWalk</string>
+    <string name="app_image_content_desc">App image</string>
+    <string name="username_placeholder">username</string>
+    <string name="password_placeholder">password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register.</string>
+    <string name="surname">Surname</string>
+    <string name="smith">Smith</string>
+    <string name="john">John</string>
+    <string name="name">Name</string>
+    <string name="mail">Email</string>
+    <string name="height">Height[cm]</string>
+    <string name="weight">Weight[kg]</string>
+    <string name="gender">Gender</string>
+    <string name="units">Units</string>
+    <string name="reminder">Water reminder</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="calories">Calories</string>
+    <string name="distance">Distance</string>
+    <string name="challenge">Challenge</string>
+    <string name="goal">Goal</string>
+    <string name="my_routes">My routes</string>
+
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home_second">Home Second</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFuZGF1bnMiLCJhIjoiY2thdGpoem9wMHU3OTJ1b2N2djU2bWo2eCJ9.WiHV5bEzANKqwbfVwbJnNQ</string>
+    <string name="create">Create</string>
+    <string name="chooseDeadline">Choose a deadline</string>
+    <string name="true_tick">\u2713</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="challenge_array">
+        <item>Calories</item>
+        <item>Distance</item>
+    </string-array>
+
+    <!-- Mapbox access token -->
+    <string-array name="unit_array">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
